@@ -1,4 +1,4 @@
-![cf](http://i.imgur.com/7v5ASc8.png) 17: Debugging
+Debugging in Visual Studio Code w/ Nodemon
 ===
 
 ## Learning Objectives
